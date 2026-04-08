@@ -44,7 +44,7 @@ pip install pillow
 ## Setup Instructions
 
 1. **Clone the repository**
-- git clone https://github.com/zainab-arslan-dar/SmartVendingMachine.git
+- git clone https://github.com/zainab-arslan-dar/CST1510_CourseWork1_Smart_Vending_Machine.git
 - cd SmartVendingMachine
 
 3. **Install required packages**
