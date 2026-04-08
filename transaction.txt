@@ -1,0 +1,32 @@
+transaction_id,product_id,quantity,total_price
+1,Harry Potter Series by J.K. Rowling,8.0,4
+7,THE COOKBOOK By Martha Stewart,25.0,1
+4,The Lord of Rings,9.0,1
+3,The Call of the Wild,7.0,1
+9,Starzplay premium Anual Subscription,35.0,1
+1,Harry Potter Series by J.K. Rowling,8.0,1
+5,Adobe Illustrator,30.0,1
+2,It Ends With Us,1,11.0
+1,Harry Potter Series by J.K. Rowling,1,8.0
+10,Disney+ Subscription,1,30.0
+1,Harry Potter Series by J.K. Rowling,8.0,1
+1,Harry Potter Series by J.K. Rowling,8.0,1
+3,The Call of the Wild,1,7.0
+6,Adobe Photoshop,1,50.0
+9,Starzplay Premium Annual Subscription,1,35.0
+1,Harry Potter Series by J.K. Rowling,1,8.0
+3,The Call of the Wild,1,7.0
+8,Wondershare Filmora,1,40.0
+4,The Lord of Rings,1,9.0
+2,It Ends With Us,1,11.0
+5,Adobe Illustrator,1,30.0
+1,Harry Potter Series by J.K. Rowling,8.0,1
+5,Adobe Illustrator,30.0,1
+1,Harry Potter Series by J.K. Rowling,8.0,3
+1,Harry Potter Series by J.K. Rowling,8.0,2
+1,Harry Potter Series by J.K. Rowling,8.0,1
+4,The Lord of Rings,1,9.0
+4,The Lord of Rings,9.0,1
+1,Harry Potter Series by J.K. Rowling,1,8.0
+10,Disney+ Subscription,1,30.0
+6,Adobe Photoshop,1,50.0

@@ -1,0 +1,11 @@
+id,product_name,price,stock
+1,Harry Potter Series by J.K. Rowling,8.0,40
+2,It Ends With Us,11.0,15
+3,The Call of the Wild,7.0,20
+4,The Lord of Rings,9.0,15
+5,Adobe Illustrator,30.0,20
+6,Adobe Photoshop,50.0,34
+7,THE COOKBOOK By Martha Stewart,25.0,45
+8,Wondershare Filmora,40.0,35
+9,Starzplay Premium Annual Subscription,35.0,20
+10,Disney+ Subscription,30.0,25
