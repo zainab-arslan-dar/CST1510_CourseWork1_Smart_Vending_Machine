@@ -44,19 +44,19 @@ pip install pillow
 ## Setup Instructions
 
 1. **Clone the repository**
-git clone https://github.com/your-username/SmartVendingMachine.git
-cd SmartVendingMachine
+- git clone https://github.com/your-username/SmartVendingMachine.git
+- cd SmartVendingMachine
 
 3. **Install required packages**
-pip install pillow
+- pip install pillow
 
 5. **Set up the database**
-python database_setup.py
-This will create shop.db and populate it with initial products.
+- python database_setup.py
+- This will create shop.db and populate it with initial products.
 
 4. **Start the server**
-python server.py
-The server will start listening on localhost:1001.
+- python server.py
+- The server will start listening on localhost:1001.
 
 5. **Run the client**
-python client.py
+- python client.py
